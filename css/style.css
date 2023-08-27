@@ -19,7 +19,7 @@ main {
 }
 
 .pokedex {
-    width: 100%;
+    width: 90%;
     max-width: 425px;
 }
 
@@ -48,9 +48,9 @@ main {
 
 .form {
     position: absolute;
-    width: 65%;
+    width: 55%;
     top: 65%;
-    left: 13.5%;
+    left: 18.5%;
 }
 
 .input_search {
@@ -69,7 +69,7 @@ main {
     position: absolute;
     bottom: 10%;
     left: 50%;
-    width: 65%;
+    width: 55%;
     transform: translate(-57%, 0);
     gap: 20px;
     display: flex;
